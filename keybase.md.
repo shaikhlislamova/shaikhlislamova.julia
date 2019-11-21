@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am shaikhlislamova on github.
+  * I am shaikhlislamova (https://keybase.io/shaikhlislamova) on keybase.
+  * I have a public key ASBbKfLJLOx1Pqh5_n0VU4BUQcITsAmd7aVoLlDJpxlO_wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205b29f2c92cec753ea879fe7d1553805441c213b0099deda5682e50c9a7194eff0a",
+      "host": "keybase.io",
+      "kid": "01205b29f2c92cec753ea879fe7d1553805441c213b0099deda5682e50c9a7194eff0a",
+      "uid": "e5899a6a21536448315cf59929235d19",
+      "username": "shaikhlislamova"
+    },
+    "merkle_root": {
+      "ctime": 1574365857,
+      "hash": "273f370b64ec6cc16c56d0351b73c06ee112a1b84dda6cc4a87cdd8929d9926aebbf55406ee27d0825271bbfe039ce1578670e3233ba1c07267dddb024c2ac77",
+      "hash_meta": "990d0696a7194f9148dcc3274b112f78c7814899bcb0f1dbfccee65fff053494",
+      "seqno": 10449167
+    },
+    "service": {
+      "entropy": "DBU3r8wasHg60jCy0k4nTchA",
+      "name": "github",
+      "username": "shaikhlislamova"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574366137,
+  "expire_in": 504576000,
+  "prev": "dae9dc4594ab569e6add0933775dd80db53dc3df109ca9bf2b5eeedcf71e88b5",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASBbKfLJLOx1Pqh5_n0VU4BUQcITsAmd7aVoLlDJpxlO_wo](https://keybase.io/shaikhlislamova), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWynyySzsdT6oef59FVOAVEHCE7AJne2laC5QyacZTv8Kp3BheWxvYWTESpcCBcQg2uncRZSrVp5q3Qkzd13YDbU9w98QnKm/K17u3PceiLXEIMq8Rut6fyFzQJonCggjeTxfhBcm4VBN2gzLO9Kd79wBAgHCo3NpZ8RAW+UVAvVddMLKqRojsnUZhBT4Q+BqYiBAp8V6sNxxIMztENqdB+MTj9Ih8VDbq2gQfalU8J0p3/OADvrypQkdB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMS4hBt4aJIUNuQ+8Q7Idj2DUxliXBFa7OhqJdSD4wbNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/shaikhlislamova
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id shaikhlislamova
+```
